@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome to my GitHub 👋
+
+I am currently looking for a Full-Time Data Science position in a collaborative environment working on meaningful, complex problems.
+
+I would love to collaborate on any climate or environmental data analysis and predictive modelling. I have been looking to build skills in these areas and am passionate about learning to analyze the climate crisis. 
 
 <!--
 **RossGertzen/RossGertzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
